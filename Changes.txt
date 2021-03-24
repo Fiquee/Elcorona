@@ -1,0 +1,5 @@
+JSON Implementation Changes
+
+1. Added logEntry method in person class (Commented out printToFile referencing in collision method)
+2. Commented out printToFile method in person class (not necessary)
+3. Added JSON write to file in update method of elCorona class

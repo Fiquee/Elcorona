@@ -1,0 +1,807 @@
+{
+  "11": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "10",
+      "Date": "20/03/2020",
+      "Location": "JalanTar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "16",
+      "Date": "23/03/2020",
+      "Location": "JalanTar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "6",
+      "Date": "01/04/2020",
+      "Location": "KlinikDesa"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "01/04/2020",
+      "Location": "BalaiRayaJKK"
+    }
+  ],
+  "12": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "31/03/2020",
+      "Location": "KlinikDesa"
+    },
+    {
+      "Infection Probability": 0.16945772188860006,
+      "Type": "Old",
+      "Interaction": "16",
+      "Date": "07/04/2020",
+      "Location": "KlinikDesa"
+    }
+  ],
+  "13": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "24/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "1",
+      "Date": "24/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "1",
+      "Date": "25/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "1",
+      "Date": "26/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "1",
+      "Date": "26/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "0",
+      "Date": "27/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "1",
+      "Date": "01/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "1",
+      "Date": "01/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "1",
+      "Date": "03/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "1",
+      "Date": "03/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "1",
+      "Date": "09/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "1",
+      "Date": "09/04/2020",
+      "Location": "KampungMawar"
+    }
+  ],
+  "14": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "22/03/2020",
+      "Location": "KebunPakMat"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "4",
+      "Date": "26/03/2020",
+      "Location": "KebunPakMat"
+    },
+    {
+      "Infection Probability": 0.43740000000000007,
+      "Type": "Old",
+      "Interaction": "4",
+      "Date": "07/04/2020",
+      "Location": "KebunPakMat"
+    }
+  ],
+  "15": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "20/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "6",
+      "Date": "20/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "26/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "17",
+      "Date": "28/03/2020",
+      "Location": "KampungPisang"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "4",
+      "Date": "31/03/2020",
+      "Location": "KebunPakMat"
+    }
+  ],
+  "16": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "20/03/2020",
+      "Location": "HutanSimpan"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "11",
+      "Date": "23/03/2020",
+      "Location": "JalanTar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "3",
+      "Date": "27/03/2020",
+      "Location": "HutanSimpan"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "6",
+      "Date": "29/03/2020",
+      "Location": "HutanSimpan"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "5",
+      "Date": "03/04/2020",
+      "Location": "HutanSimpan"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "0",
+      "Date": "04/04/2020",
+      "Location": "HutanSimpan"
+    },
+    {
+      "Infection Probability": 0.3,
+      "Type": "Teenager",
+      "Interaction": "12",
+      "Date": "07/04/2020",
+      "Location": "KlinikDesa"
+    }
+  ],
+  "17": [
+    {
+      "Infection Probability": 0.15,
+      "Type": "Children",
+      "Interaction": "15",
+      "Date": "28/03/2020",
+      "Location": "KampungPisang"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "0",
+      "Date": "09/04/2020",
+      "Location": "KampungPisang"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "0",
+      "Date": "09/04/2020",
+      "Location": "KampungPisang"
+    }
+  ],
+  "0": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "4",
+      "Date": "24/03/2020",
+      "Location": "JalanZaba"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "27/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "28/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "16",
+      "Date": "04/04/2020",
+      "Location": "HutanSimpan"
+    },
+    {
+      "Infection Probability": 0.43740000000000007,
+      "Type": "Old",
+      "Interaction": "4",
+      "Date": "07/04/2020",
+      "Location": "KebunPakMat"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "17",
+      "Date": "09/04/2020",
+      "Location": "KampungPisang"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "17",
+      "Date": "09/04/2020",
+      "Location": "KampungPisang"
+    }
+  ],
+  "1": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "24/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "25/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "26/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "26/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "01/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "01/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "03/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "03/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "09/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "09/04/2020",
+      "Location": "KampungMawar"
+    }
+  ],
+  "2": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "21/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "24/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "25/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "27/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "29/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "31/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "01/04/2020",
+      "Location": "PasarTani"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "02/04/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "04/04/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "06/04/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "07/04/2020",
+      "Location": "KampungPisang"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "9",
+      "Date": "08/04/2020",
+      "Location": "BalaiRayaJKK"
+    }
+  ],
+  "3": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "24/03/2020",
+      "Location": "HutanSimpan"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "16",
+      "Date": "27/03/2020",
+      "Location": "HutanSimpan"
+    }
+  ],
+  "4": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "0",
+      "Date": "24/03/2020",
+      "Location": "JalanZaba"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "5",
+      "Date": "25/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "14",
+      "Date": "26/03/2020",
+      "Location": "KebunPakMat"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "10",
+      "Date": "27/03/2020",
+      "Location": "JalanZaba"
+    },
+    {
+      "Infection Probability": 0.15,
+      "Type": "Children",
+      "Interaction": "15",
+      "Date": "31/03/2020",
+      "Location": "KebunPakMat"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "14",
+      "Date": "07/04/2020",
+      "Location": "KebunPakMat"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "0",
+      "Date": "07/04/2020",
+      "Location": "KebunPakMat"
+    }
+  ],
+  "5": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "4",
+      "Date": "25/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "27/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "28/03/2020",
+      "Location": "JalanDam"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "31/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "16",
+      "Date": "03/04/2020",
+      "Location": "HutanSimpan"
+    }
+  ],
+  "6": [
+    {
+      "Infection Probability": 0.15,
+      "Type": "Children",
+      "Interaction": "15",
+      "Date": "20/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "16",
+      "Date": "29/03/2020",
+      "Location": "KlinikDesa"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "11",
+      "Date": "01/04/2020",
+      "Location": "KlinikDesa"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "8",
+      "Date": "04/04/2020",
+      "Location": "KampungMawar"
+    }
+  ],
+  "7": [],
+  "8": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "16",
+      "Date": "20/03/2020",
+      "Location": "HutanSimpan"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "14",
+      "Date": "22/03/2020",
+      "Location": "KebunPakMat"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "13",
+      "Date": "24/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "3",
+      "Date": "24/03/2020",
+      "Location": "HutanSimpan"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "5",
+      "Date": "27/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "5",
+      "Date": "28/03/2020",
+      "Location": "JalanDam"
+    },
+    {
+      "Infection Probability": 0.3,
+      "Type": "Teenager",
+      "Interaction": "12",
+      "Date": "31/03/2020",
+      "Location": "KlinikDesa"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "5",
+      "Date": "31/03/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "01/04/2020",
+      "Location": "PasarTani"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "11",
+      "Date": "01/04/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "6",
+      "Date": "04/04/2020",
+      "Location": "KampungMawar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "07/04/2020",
+      "Location": "KampungPisang"
+    }
+  ],
+  "9": [
+    {
+      "Infection Probability": 0.15,
+      "Type": "Children",
+      "Interaction": "15",
+      "Date": "20/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "21/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "24/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "25/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.15,
+      "Type": "Children",
+      "Interaction": "15",
+      "Date": "26/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "27/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "0",
+      "Date": "28/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "29/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "31/03/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "02/04/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "04/04/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "06/04/2020",
+      "Location": "BalaiRayaJKK"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "2",
+      "Date": "08/04/2020",
+      "Location": "BalaiRayaJKK"
+    }
+  ],
+  "10": [
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "11",
+      "Date": "20/03/2020",
+      "Location": "JalanTar"
+    },
+    {
+      "Infection Probability": 0.6,
+      "Type": "Old",
+      "Interaction": "4",
+      "Date": "27/03/2020",
+      "Location": "JalanZaba"
+    }
+  ]
+}
